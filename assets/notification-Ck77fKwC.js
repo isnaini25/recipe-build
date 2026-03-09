@@ -1,1 +1,0 @@
-import{ak as r}from"./index-NUhVY_9d.js";const t={success:({title:i,message:o})=>{r.success(i,{description:o})},error:({title:i,message:o})=>{r.error(i,{description:o})},warning:({title:i,message:o})=>{r.warning(i,{description:o})},info:({title:i,message:o})=>{r.info(i,{description:o})},custom:(i,o,s)=>{r(i,{description:o,icon:s})}};export{t as n};
